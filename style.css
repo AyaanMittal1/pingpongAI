@@ -1,0 +1,37 @@
+#Instruct{
+    float: right;
+    margin-top: 3px;
+}
+.header{
+    margin-top: 0px;
+    padding: 10px;
+}
+body{
+    background-image: url("Background.webp");
+    background-size: cover;
+}
+.start{
+    font-size: 20px;
+}
+.Instructions{
+    width: 45%;
+    height: 45%;
+}
+.modal-dialog{
+    width: 90%;
+}
+.footer{
+    background-color: navy;
+    color: white;
+    line-height: 2;
+    position: fixed;
+    /* bottom: 0%; */
+    top: 90%;
+    width: 100%;
+}
+canvas{
+    border: 10px red ridge;
+    border-radius: 15%;
+    box-shadow: 5px 5px 15px navy;
+    margin-top: 70px;
+}
